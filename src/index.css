@@ -1,0 +1,27 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+div
+{
+  background-color: black;
+}
+
+h1,h2
+{
+  color: bisque;
+}
+
+h1
+{
+  text-align: center;
+}
+
+h2
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 50px;
+}
